@@ -1,4 +1,4 @@
-# Zorvyn Finance Dashboard
+# Finance Dashboard
 
 A responsive, interactive finance dashboard built for the Zorvyn frontend developer evaluation. This project focuses on clean UI/UX, modular component architecture, and robust state management without relying on a backend.
 
@@ -39,7 +39,7 @@ This application was built from scratch to satisfy the core requirements and sev
 ### Installation
 
 1. Clone the repository:
-   git clone [https://github.com/Sanavi05/zorvyn-dashboard.git](https://github.com/Sanavi05/zorvyn-dashboard.git)
+   git clone [https://github.com/Sanavi05/finance-dashboard.git](https://github.com/Sanavi05/finance-dashboard.git)
 
 2. Navigate into the directory:
    cd frontend
